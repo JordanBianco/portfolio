@@ -5,7 +5,7 @@
 
         <!-- Right Side -->
         <div>
-            <ul class="flex items-center space-x-6">
+            <ul class="flex items-center space-x-6 text-sm">
                 <!-- Home -->
                 <router-link
                     to="/#home"
